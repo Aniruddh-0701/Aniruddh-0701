@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Me: A coding Addict 😆
+
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on Calculator App using Flutter
+- 🌱 I’m currently learning Julia
+
 <!--
 **Aniruddh-0701/Aniruddh-0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
